@@ -1,6 +1,6 @@
 .header {
   width: 100%;
-  border: 1px solid cadetblue;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   background-color: cadetblue;
   display: flex;
   justify-content: space-between;
