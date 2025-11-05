@@ -1,0 +1,9 @@
+.header {
+  width: 100%;
+  border: 1px solid cadetblue;
+  background-color: cadetblue;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+}
