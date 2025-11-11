@@ -1,0 +1,25 @@
+.bidniituhai {
+}
+.empo {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+}
+.imgMy {
+  border-radius: 30px;
+}
+.bid {
+  color: goldenrod;
+  border: 1px solid gold;
+  border-radius: 50px;
+}
